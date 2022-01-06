@@ -1,16 +1,16 @@
 <template>
-    <div class="App">
-        <router-view></router-view>
+    <div class="Home">
+        asdasd
     </div>
 </template>
 
 <script>
 export default {
-    name: "App"
+    name: "Home"
 }
 </script>
 
 <style scoped lang="less">
-.App {
+.Home {
 }
 </style>

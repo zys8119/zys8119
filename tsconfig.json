@@ -2,7 +2,14 @@
     "compilerOptions": {
         "module": "commonjs",
         "target": "es5",
-        "sourceMap": true
+        "sourceMap": true,
+        "types": [
+            "vite/client",
+            "declare.ts"
+        ],
+        "paths": {
+            "@/*": ["./src/*"]
+        }
     },
     "exclude": [
         "node_modules"

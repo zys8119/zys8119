@@ -1,5 +1,6 @@
 import {defineConfig} from "vite"
 import pluginVue from "@vitejs/plugin-vue"
+import {resolve} from "path"
 export default defineConfig({
     base:"./",
     plugins:[
@@ -7,5 +8,10 @@ export default defineConfig({
     ],
     build:{
         outDir:"./docs",
+    },
+    resolve:{
+        alias:{
+            "@":resolve(__dirname,"src")
+        }
     }
 })
