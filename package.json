@@ -4,7 +4,8 @@
   "description": "个人主页",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "serve": "vite serve",
+    "build": "vite build"
   },
   "repository": {
     "type": "git",
@@ -17,6 +18,9 @@
   },
   "homepage": "https://github.com/zys8119/zys8119#readme",
   "dependencies": {
-    "vite": "^2.7.10"
+    "@vitejs/plugin-vue": "^2.0.1",
+    "less": "^4.1.2",
+    "vite": "^2.7.10",
+    "vue": "^3.2.26"
   }
 }
