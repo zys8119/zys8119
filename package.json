@@ -1,0 +1,22 @@
+{
+  "name": "zys8119",
+  "version": "1.0.0",
+  "description": "个人主页",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zys8119/zys8119.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zys8119/zys8119/issues"
+  },
+  "homepage": "https://github.com/zys8119/zys8119#readme",
+  "dependencies": {
+    "vite": "^2.7.10"
+  }
+}
