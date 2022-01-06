@@ -1,13 +1,12 @@
 <template>
     <div class="Home">
-        asdasd
+        <AnimationTemplate></AnimationTemplate>
     </div>
 </template>
 
 <script setup lang="ts">
-// export default {
-//     name: "Home",
-// }
+import AnimationTemplate from "./AnimationTemplate.vue"
+
 </script>
 
 <style scoped lang="less">
