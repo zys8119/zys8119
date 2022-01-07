@@ -1,4 +1,4 @@
-import {defineConfig} from "vite"
+import {defineConfig, Plugin} from "vite"
 import pluginVue from "@vitejs/plugin-vue"
 import vueJsx from '@vitejs/plugin-vue-jsx'
 import AutoImport from 'unplugin-auto-import/vite'
@@ -6,10 +6,14 @@ import Components from 'unplugin-vue-components/vite'
 import { ElementPlusResolver } from 'unplugin-vue-components/resolvers'
 import { viteCommonjs } from '@originjs/vite-plugin-commonjs'
 import {resolve} from "path"
+import remPlug from "./plug/remPlug"
 export default defineConfig({
     base:"./",
     plugins:[
         pluginVue(),
+        remPlug([
+            resolve(__dirname,"./src/assets/less/style.less"),
+        ]),
         vueJsx(),
         viteCommonjs(),
         AutoImport({

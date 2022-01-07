@@ -25,7 +25,7 @@ onMounted(()=>{
                 isController: false,
                 isAxis: false,
                 isGui: true,
-                isStats: true
+                isStats: false
             }, options);
 
             this.width = this.$container.width();
@@ -51,6 +51,8 @@ onMounted(()=>{
             if (this.options.isGui) {
                 this.gui = new dat.GUI();
 
+                console.log(this.gui)
+
                 this.gui.params = {};
                 this.gui.params.stats = this.options.isStats;
                 this.gui.add(this.gui.params, 'stats').name('FPS Metor').onChange(() => {
@@ -63,8 +65,11 @@ onMounted(()=>{
             }
 
             // renderer
-            this.renderer = new THREE.WebGLRenderer();
-            this.renderer.setClearColor(0x000000);
+            this.renderer = new THREE.WebGLRenderer({
+                alpha:true,
+                antialias:true,
+            });
+            this.renderer.setClearColor( 0x000000, 0 );
             this.renderer.setPixelRatio(window.devicePixelRatio);
             this.renderer.setSize(this.width, this.height);
 
