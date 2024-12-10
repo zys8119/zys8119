@@ -26,6 +26,8 @@
 ## 技术 💻
 
 <p align="center">
+<img title="HTML" alt="" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061307882.png" width="48" height="48" />
+<img title="CSS" alt="" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061309229.png" width="48" height="48" />
 <img title="Git" alt="" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061326511.png" width="48" height="48" />
 <img title="Gitlab" alt="" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061327338.png" width="48" height="48" />
 <img title="MySQL" alt="" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061400526.png" width="60" height="60" />
