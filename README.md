@@ -22,6 +22,43 @@
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zys8119" width="auto"></img>
+
+## 技术 💻
+
+<p align="center">
+<img title="Java" alt="Java" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061259295.png" width="48" height="48" />
+<img title="Git" alt="" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061326511.png" width="48" height="48" />
+<img title="Gitlab" alt="" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061327338.png" width="48" height="48" />
+<img title="Prometheus" alt="" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061328494.png" width="48" height="48" />
+<img title="Grafana" alt="" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061435121.png" width="48" height="48" />
+<img title="Protobuf" alt="" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061446515.png" height="48" />
+<img title="gRPC" alt="" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061339229.png" width="48" height="48" />
+<img title="MySQL" alt="" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061400526.png" width="60" height="60" />
+<img title="RocketMQ" alt="" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061338810.png" width="48" height="48" />
+<img title="Redis" alt="" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061417881.png" width="48" height="48" />
+<img title="JetBrains" alt="" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061432653.png" width="48" height="48" />
+<img title="Ubuntu" alt="" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061639804.png" width="42" height="42" />
+<img title="Ubuntu" alt="" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203062151170.png" height="45" />
+<img title="CentOS" alt="" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061641671.png" width="42" height="42" />
+<img title="Windows" alt="" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061643723.png" width="48" height="48" />
+</p>
+<div>
+  <h3 align="center"> 
+    Visitors Count<br>
+    <img align="center" src="https://profile-counter.glitch.me/mxsm/count.svg" />
+  </h3>
+</div>
+
+<a href="https://blog.ljbmxsm.com">
+  <img align="left" height=170px src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mxsm&show_icons=true&count_private=true&theme=radical" />
+</a>
+<a href="https://blog.ljbmxsm.com">
+  <img align="left" height=170px src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mxsm&layout=compact&theme=radical&langs_count=10&hide=html,javascript,css,freemarker" />
+</a>
+
+[![@mxsm's Holopin board](https://holopin.io/api/user/board?user=mxsm)](https://holopin.io/@mxsm)
+
+
 <!--
 - 👋 我：嗨，我是张云山，很高兴在GitHub与您相识
 - 🔭 我的技能：
