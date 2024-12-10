@@ -56,7 +56,7 @@
   <img align="left" height=170px src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zys8119&layout=compact&theme=radical&langs_count=10&hide=html,javascript,css,freemarker" />
 </a>
 
-[![An image of @zys8119's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/zys8119)](https://holopin.io/@zys8119)
+<!-- [![An image of @zys8119's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/zys8119)](https://holopin.io/@zys8119) -->
 
 
 <!--
