@@ -15,6 +15,8 @@
 
 ### 个人资料视图
 
+此部分此页面的访问者计数从 2024 年 12 月 10 日开始
+
 <img src="https://count.getloli.com/get/@:zys8119?theme=gelbooru-h" alt=":name" />
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
