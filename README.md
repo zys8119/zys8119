@@ -26,6 +26,7 @@
 ## 技术 💻
 
 <p align="center">
+<img title="Macos" alt="" src="https://cdn.jsdelivr.net/gh/zys8119/zys8119@main/technology-images/macos.png" height="48" />
 <img title="Typescript" alt="" src="https://cdn.jsdelivr.net/gh/zys8119/zys8119@main/technology-images/typescript.png" height="48" />
 <img title="Node" alt="" src="https://cdn.jsdelivr.net/gh/zys8119/zys8119@main/technology-images/node.png" height="48" />
 <img title="HTML" alt="" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061307882.png" width="48" height="48" />
