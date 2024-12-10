@@ -15,7 +15,7 @@
 
 ### 个人资料视图
 
-<img src="https://count.getloli.com/get/@:mxsm?theme=gelbooru-h" alt=":name" />
+<img src="https://count.getloli.com/get/@:zys8119?theme=gelbooru-h" alt=":name" />
 
 <!--
 - 👋 我：嗨，我是张云山，很高兴在GitHub与您相识
