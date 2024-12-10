@@ -26,7 +26,6 @@
 ## 技术 💻
 
 <p align="center">
-<img title="Macos" alt="" src="https://cdn.jsdelivr.net/gh/zys8119/zys8119@main/technology-images/macos.png" height="48" />
 <img title="Typescript" alt="" src="https://cdn.jsdelivr.net/gh/zys8119/zys8119@main/technology-images/typescript.png" height="48" />
 <img title="Node" alt="" src="https://cdn.jsdelivr.net/gh/zys8119/zys8119@main/technology-images/node.png" height="48" />
 <img title="HTML" alt="" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061307882.png" width="48" height="48" />
@@ -41,6 +40,7 @@
 <img title="Ubuntu" alt="" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203062151170.png" height="45" />
 <img title="CentOS" alt="" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061641671.png" width="42" height="42" />
 <img title="Windows" alt="" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061643723.png" width="48" height="48" />
+<img title="Macos" alt="" src="https://cdn.jsdelivr.net/gh/zys8119/zys8119@main/technology-images/macos.png" height="48" />
 </p>
 <div>
   <h3 align="center"> 
