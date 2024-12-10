@@ -8,8 +8,10 @@
 - 📫 如何联系我:770959294@qq.com
 
 ### 贡献项目
-[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=zys8119&repo=wisdom-serve&theme=monokai)
-[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=zys8119&repo=3d-scene-editor&theme=monokai)
+
+
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=zys8119&repo=wisdom-serve&theme=monokai)](https://github.com/zys8119/wisdom-serve)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=zys8119&repo=3d-scene-editor&theme=monokai)](https://github.com/zys8119/3d-scene-editor)
 <!--
 - 👋 我：嗨，我是张云山，很高兴在GitHub与您相识
 - 🔭 我的技能：
