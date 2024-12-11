@@ -35,7 +35,7 @@
 <img title="Gitlab" alt="" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061327338.png" width="48" height="48" />
 <img title="MySQL" alt="" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061400526.png" width="60" height="60" />
 <img title="Redis" alt="" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061417881.png" width="48" height="48" />
-<img title="Docker" alt="" src="https://cdn.jsdelivr.net/gh/zys8119/zys8119@main/technology-images/Docker.png" width="48" height="48" />
+<img title="Docker" alt="" src="https://cdn.jsdelivr.net/gh/zys8119/zys8119@main/technology-images/Docker.png" height="48" />
 <img title="VSCode" alt="" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203062157281.png" width="48" height="48" />
 <img title="JetBrains" alt="" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061432653.png" width="48" height="48" />
 <img title="Ubuntu" alt="" src="https://cdn.jsdelivr.net/gh/aaron-ai/ImageHosting@master/img/202203061639804.png" width="42" height="42" />
